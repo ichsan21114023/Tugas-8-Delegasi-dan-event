@@ -1,0 +1,23 @@
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.form_induk.resources
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.FormEntryData.resources
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.Properties.Resources.resources
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.exe
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.pdb
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\bin\Debug\TugasCalculator.exe.config
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\bin\Debug\TugasCalculator.exe
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\bin\Debug\TugasCalculator.pdb
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\bin\Debug\TugasCalculator.exe.config
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\bin\Debug\TugasCalculator.exe
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\bin\Debug\TugasCalculator.pdb
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\obj\Debug\TugasCalculator.form_induk.resources
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\obj\Debug\TugasCalculator.FormEntryData.resources
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\obj\Debug\TugasCalculator.Properties.Resources.resources
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\obj\Debug\TugasCalculator.exe
+D:\AMIKOM 3\Pemrograman\Tugas8\DelegateEvent\TugasCalculator\obj\Debug\TugasCalculator.pdb
